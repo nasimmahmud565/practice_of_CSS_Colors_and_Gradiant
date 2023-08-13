@@ -1,0 +1,15 @@
+h1{
+    color: tomato;
+}
+
+h2{
+    color: rgba(255,00,71);
+}
+
+p{
+    color: #02b535;
+}
+.box{
+    height: 400px;
+    width: 400px;
+    background: linear-gradient(rgba(255,0,0)  100px,green)
